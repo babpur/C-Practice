@@ -1,0 +1,15 @@
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\collectionTest\bin\Debug\net8.0\collectionTest.exe
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\collectionTest\bin\Debug\net8.0\collectionTest.deps.json
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\collectionTest\bin\Debug\net8.0\collectionTest.runtimeconfig.json
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\collectionTest\bin\Debug\net8.0\collectionTest.dll
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\collectionTest\bin\Debug\net8.0\collectionTest.pdb
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\collectionTest\obj\Debug\net8.0\collectionTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\collectionTest\obj\Debug\net8.0\collectionTest.AssemblyInfoInputs.cache
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\collectionTest\obj\Debug\net8.0\collectionTest.AssemblyInfo.cs
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\collectionTest\obj\Debug\net8.0\collectionTest.csproj.CoreCompileInputs.cache
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\collectionTest\obj\Debug\net8.0\collectionTest.sourcelink.json
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\collectionTest\obj\Debug\net8.0\collectionTest.dll
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\collectionTest\obj\Debug\net8.0\refint\collectionTest.dll
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\collectionTest\obj\Debug\net8.0\collectionTest.pdb
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\collectionTest\obj\Debug\net8.0\collectionTest.genruntimeconfig.cache
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\collectionTest\obj\Debug\net8.0\ref\collectionTest.dll
