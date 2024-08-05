@@ -1,0 +1,15 @@
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\transferData\bin\Debug\net8.0\transferData.exe
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\transferData\bin\Debug\net8.0\transferData.deps.json
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\transferData\bin\Debug\net8.0\transferData.runtimeconfig.json
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\transferData\bin\Debug\net8.0\transferData.dll
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\transferData\bin\Debug\net8.0\transferData.pdb
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\transferData\obj\Debug\net8.0\transferData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\transferData\obj\Debug\net8.0\transferData.AssemblyInfoInputs.cache
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\transferData\obj\Debug\net8.0\transferData.AssemblyInfo.cs
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\transferData\obj\Debug\net8.0\transferData.csproj.CoreCompileInputs.cache
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\transferData\obj\Debug\net8.0\transferData.sourcelink.json
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\transferData\obj\Debug\net8.0\transferData.dll
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\transferData\obj\Debug\net8.0\refint\transferData.dll
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\transferData\obj\Debug\net8.0\transferData.pdb
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\transferData\obj\Debug\net8.0\transferData.genruntimeconfig.cache
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\transferData\obj\Debug\net8.0\ref\transferData.dll
