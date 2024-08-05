@@ -1,0 +1,15 @@
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\operator\bin\Debug\net8.0\operator.exe
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\operator\bin\Debug\net8.0\operator.deps.json
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\operator\bin\Debug\net8.0\operator.runtimeconfig.json
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\operator\bin\Debug\net8.0\operator.dll
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\operator\bin\Debug\net8.0\operator.pdb
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\operator\obj\Debug\net8.0\operator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\operator\obj\Debug\net8.0\operator.AssemblyInfoInputs.cache
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\operator\obj\Debug\net8.0\operator.AssemblyInfo.cs
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\operator\obj\Debug\net8.0\operator.csproj.CoreCompileInputs.cache
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\operator\obj\Debug\net8.0\operator.sourcelink.json
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\operator\obj\Debug\net8.0\operator.dll
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\operator\obj\Debug\net8.0\refint\operator.dll
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\operator\obj\Debug\net8.0\operator.pdb
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\operator\obj\Debug\net8.0\operator.genruntimeconfig.cache
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\operator\obj\Debug\net8.0\ref\operator.dll
