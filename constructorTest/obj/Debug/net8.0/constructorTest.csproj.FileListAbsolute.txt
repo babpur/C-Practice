@@ -1,0 +1,15 @@
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\constructorTest\bin\Debug\net8.0\constructorTest.exe
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\constructorTest\bin\Debug\net8.0\constructorTest.deps.json
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\constructorTest\bin\Debug\net8.0\constructorTest.runtimeconfig.json
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\constructorTest\bin\Debug\net8.0\constructorTest.dll
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\constructorTest\bin\Debug\net8.0\constructorTest.pdb
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\constructorTest\obj\Debug\net8.0\constructorTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\constructorTest\obj\Debug\net8.0\constructorTest.AssemblyInfoInputs.cache
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\constructorTest\obj\Debug\net8.0\constructorTest.AssemblyInfo.cs
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\constructorTest\obj\Debug\net8.0\constructorTest.csproj.CoreCompileInputs.cache
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\constructorTest\obj\Debug\net8.0\constructorTest.sourcelink.json
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\constructorTest\obj\Debug\net8.0\constructorTest.dll
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\constructorTest\obj\Debug\net8.0\refint\constructorTest.dll
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\constructorTest\obj\Debug\net8.0\constructorTest.pdb
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\constructorTest\obj\Debug\net8.0\constructorTest.genruntimeconfig.cache
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\constructorTest\obj\Debug\net8.0\ref\constructorTest.dll
