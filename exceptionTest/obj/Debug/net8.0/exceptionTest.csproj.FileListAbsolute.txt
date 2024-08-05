@@ -1,0 +1,15 @@
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\exceptionTest\bin\Debug\net8.0\exceptionTest.exe
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\exceptionTest\bin\Debug\net8.0\exceptionTest.deps.json
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\exceptionTest\bin\Debug\net8.0\exceptionTest.runtimeconfig.json
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\exceptionTest\bin\Debug\net8.0\exceptionTest.dll
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\exceptionTest\bin\Debug\net8.0\exceptionTest.pdb
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\exceptionTest\obj\Debug\net8.0\exceptionTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\exceptionTest\obj\Debug\net8.0\exceptionTest.AssemblyInfoInputs.cache
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\exceptionTest\obj\Debug\net8.0\exceptionTest.AssemblyInfo.cs
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\exceptionTest\obj\Debug\net8.0\exceptionTest.csproj.CoreCompileInputs.cache
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\exceptionTest\obj\Debug\net8.0\exceptionTest.sourcelink.json
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\exceptionTest\obj\Debug\net8.0\exceptionTest.dll
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\exceptionTest\obj\Debug\net8.0\refint\exceptionTest.dll
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\exceptionTest\obj\Debug\net8.0\exceptionTest.pdb
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\exceptionTest\obj\Debug\net8.0\exceptionTest.genruntimeconfig.cache
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\exceptionTest\obj\Debug\net8.0\ref\exceptionTest.dll
