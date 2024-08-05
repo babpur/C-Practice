@@ -1,0 +1,15 @@
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\inheritanceTest\obj\Debug\net8.0\inheritanceTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\inheritanceTest\obj\Debug\net8.0\inheritanceTest.AssemblyInfoInputs.cache
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\inheritanceTest\obj\Debug\net8.0\inheritanceTest.AssemblyInfo.cs
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\inheritanceTest\obj\Debug\net8.0\inheritanceTest.csproj.CoreCompileInputs.cache
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\inheritanceTest\obj\Debug\net8.0\inheritanceTest.sourcelink.json
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\inheritanceTest\bin\Debug\net8.0\inheritanceTest.exe
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\inheritanceTest\bin\Debug\net8.0\inheritanceTest.deps.json
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\inheritanceTest\bin\Debug\net8.0\inheritanceTest.runtimeconfig.json
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\inheritanceTest\bin\Debug\net8.0\inheritanceTest.dll
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\inheritanceTest\bin\Debug\net8.0\inheritanceTest.pdb
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\inheritanceTest\obj\Debug\net8.0\inheritanceTest.dll
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\inheritanceTest\obj\Debug\net8.0\refint\inheritanceTest.dll
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\inheritanceTest\obj\Debug\net8.0\inheritanceTest.pdb
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\inheritanceTest\obj\Debug\net8.0\inheritanceTest.genruntimeconfig.cache
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\inheritanceTest\obj\Debug\net8.0\ref\inheritanceTest.dll
