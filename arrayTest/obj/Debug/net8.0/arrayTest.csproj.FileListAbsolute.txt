@@ -1,0 +1,15 @@
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\arrayTest\bin\Debug\net8.0\arrayTest.exe
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\arrayTest\bin\Debug\net8.0\arrayTest.deps.json
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\arrayTest\bin\Debug\net8.0\arrayTest.runtimeconfig.json
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\arrayTest\bin\Debug\net8.0\arrayTest.dll
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\arrayTest\bin\Debug\net8.0\arrayTest.pdb
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\arrayTest\obj\Debug\net8.0\arrayTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\arrayTest\obj\Debug\net8.0\arrayTest.AssemblyInfoInputs.cache
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\arrayTest\obj\Debug\net8.0\arrayTest.AssemblyInfo.cs
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\arrayTest\obj\Debug\net8.0\arrayTest.csproj.CoreCompileInputs.cache
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\arrayTest\obj\Debug\net8.0\arrayTest.sourcelink.json
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\arrayTest\obj\Debug\net8.0\arrayTest.dll
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\arrayTest\obj\Debug\net8.0\refint\arrayTest.dll
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\arrayTest\obj\Debug\net8.0\arrayTest.pdb
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\arrayTest\obj\Debug\net8.0\arrayTest.genruntimeconfig.cache
+C:\Users\namoo\Source\Repos\babpur\csharp_practice\arrayTest\obj\Debug\net8.0\ref\arrayTest.dll
